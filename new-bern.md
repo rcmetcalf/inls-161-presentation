@@ -1,25 +1,33 @@
-% New Bern
+% Hometown History: New Bern, North Carolina
 % Rachel Metcalf
 % July 23, 2015
 
-# Intro
+# 300 Years of History
 
 <section data-markdown>
 ## Present-day New Bern
-- location
-- population
-- ????
+
+- 30,000 people
 </section>
 
 <section data-markdown>
 ## Claims to Fame
-- Pepsi-Cola
-- Nicholas Sparks (The Notebook)
-- First Permanent Colonial Capital of North Carolina/First State Capital
-</section>
+
+	<section> 
+	### Pepsi-Cola 
+	</section>
+	
+	<section> 
+	### Nicholas Sparks and *The Notebook* 
+	</section>
+	
+	<section>
+	### First Permanent Colonial Capital of North Carolina 
+	---> First State Capital
+	</section>
 
 <section data-markdown>
-# Colonial Beginnings
+## Colonial Beginnings
 - Founded in 1710 by Swiss settlers
 - Named after Bern, Switzerland
 - Governor Tryon
@@ -27,7 +35,7 @@
 </section>
 
 <section data-markdown>
-# "Revolutionary" Changes
+## "Revolutionary" Changes
 - Royal Governor Martin fled New Bern in 1775
 - NC's first state capital until 1794
 - Visited by George Washington in 1791
@@ -35,7 +43,7 @@
 </section>
 
 <section data-markdown>
-# Reconstruction
+## Reconstruction
 - Only Stable Office remained 
 - Highway and houses built over original Palace foundations
 - Reconstruction began in the 1950s
