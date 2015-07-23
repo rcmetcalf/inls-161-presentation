@@ -25,6 +25,7 @@
 	### First Permanent Colonial Capital of North Carolina 
 	---> First State Capital
 	</section>
+</section>
 
 <section data-markdown>
 ## Colonial Beginnings
